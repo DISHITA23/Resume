@@ -6,6 +6,9 @@ This is my **personal resume website**, built with **pure HTML** and hosted on *
 It showcases my **education**, **projects**, **internships**, and **contact information** in a clean, minimal layout.  
 
 
+🚀 **Live Demo:** [Visit My Resume](https://dishita23.github.io/Resume/)  
+
+
  ✨ Features  
 
 ✅ **Fast & Lightweight** – No unnecessary frameworks  
@@ -32,8 +35,6 @@ It showcases my **education**, **projects**, **internships**, and **contact info
 📍 **Projects** – Showcase of work  
 📍 **Contact** – Email, phone, GitHub link  
 
-
-🚀 **Live Demo:** [Visit My Resume](https://dishita23.github.io/Resume/)  
 
 
 💡 This project is part of my personal learning and portfolio building. Suggestions are always welcome!
